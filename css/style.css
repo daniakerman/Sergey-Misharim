@@ -169,4 +169,10 @@ img.img-responsive:hover {
     margin-top: 60px;
 }
 
+#content > .container > .row {
+    background: url(../images/px1.png);
+    padding: 25px 15px;
+    border-top: 1px solid #292834;
+    border-bottom: 1px solid #292834;
+}
 
