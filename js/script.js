@@ -6,4 +6,13 @@ $(document).ready(function ($) {
         return $(this).ekkoLightbox();
     });
 
+    var scrollToElement = function (selector) {
+        $('html, body').animate({
+            scrollTop: $('.' + selector).offset().top
+        }, 1000);
+    };
+    $(".menu_wrapper ul > li a, .bot1_wrapper ul > li a").on("click", function() {
+        scrollToElement($(this).data('element'));
+    });
+
 });
