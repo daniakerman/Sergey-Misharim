@@ -90,7 +90,7 @@ body {
 }
 
 .social li a {
-    opacity: 0.4;
+    opacity: 1;
     filter: alpha(opacity=40);
     transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
@@ -105,10 +105,16 @@ body {
 
 .menu_wrapper2 {
     text-align: right;
-    margin-top: 15px;
-    padding-bottom: 20px;
+    margin-top: 46px;
+    padding-bottom: 0;
     line-height: 1px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+}
+
+.top3_wrapper {
+    position: relative;
+    top: 58px;
+    left: 252px;
 }
 
 .menu_wrapper {
@@ -143,7 +149,7 @@ figure.img-polaroid img {
 }
 
 #content {
-    margin-top: 50px;
+    margin-top: 0px;
     margin-bottom: 50px;
 }
 
@@ -245,6 +251,7 @@ footer {
     display: inline-block;
 }
 
-.pnone1_wrapper {
-    float: right;
+.skype1 {
+    position: relative;
+    left: -26px;
 }
