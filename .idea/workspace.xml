@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="819621da-a73b-4ed2-8b6f-1cfb5c3d3625" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/skype.png" />
+    <list default="true" id="819621da-a73b-4ed2-8b6f-1cfb5c3d3625" name="Default" comment="added skype icon">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/skype.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -20,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="203" column="79" lean-forward="false" selection-start-line="203" selection-start-column="79" selection-end-line="203" selection-end-column="79" />
+            <state relative-caret-position="684">
+              <caret line="223" column="14" lean-forward="true" selection-start-line="223" selection-start-column="14" selection-end-line="223" selection-end-column="14" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -48,21 +48,23 @@
                 <element signature="n#p#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#p#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#11664#11670#0" expanded="true" />
-                <element signature="e#11670#11676#0" expanded="true" />
-                <element signature="e#11679#11685#0" expanded="true" />
-                <element signature="e#11685#11691#0" expanded="true" />
+                <element signature="e#12466#12472#0" expanded="true" />
+                <element signature="e#12472#12478#0" expanded="true" />
+                <element signature="e#12481#12487#0" expanded="true" />
+                <element signature="e#12487#12493#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="255" column="1" lean-forward="true" selection-start-line="255" selection-start-column="1" selection-end-line="255" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="92" column="14" lean-forward="false" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -75,13 +77,6 @@
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skype.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/skype.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -109,8 +104,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -329,7 +324,7 @@
       <workItem from="1496058205704" duration="423000" />
       <workItem from="1496058658272" duration="26000" />
       <workItem from="1496058706486" duration="5960000" />
-      <workItem from="1496079092885" duration="6474000" />
+      <workItem from="1496079092885" duration="7818000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html.">
       <created>1496058234923</created>
@@ -387,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496216179039</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added skype icon">
+      <created>1496217006847</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1496217006847</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12883000" />
+    <option name="totallyTimeSpent" value="14227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="23" width="1375" height="873" extended-state="0" />
@@ -457,7 +459,8 @@
     <MESSAGE value="Added logo." />
     <MESSAGE value="Added ekko-lightbox gallery." />
     <MESSAGE value="moved menu to right of header" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved menu to right of header" />
+    <MESSAGE value="added skype icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="added skype icon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -491,11 +494,13 @@
             <element signature="n#p#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#p#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#11664#11670#0" expanded="true" />
-            <element signature="e#11670#11676#0" expanded="true" />
-            <element signature="e#11679#11685#0" expanded="true" />
-            <element signature="e#11685#11691#0" expanded="true" />
+            <element signature="e#12466#12472#0" expanded="true" />
+            <element signature="e#12472#12478#0" expanded="true" />
+            <element signature="e#12481#12487#0" expanded="true" />
+            <element signature="e#12487#12493#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -539,6 +544,11 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/skype.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -547,23 +557,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/skype.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="255" column="1" lean-forward="true" selection-start-line="255" selection-start-column="1" selection-end-line="255" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="203" column="79" lean-forward="false" selection-start-line="203" selection-start-column="79" selection-end-line="203" selection-end-column="79" />
+        <state relative-caret-position="684">
+          <caret line="223" column="14" lean-forward="true" selection-start-line="223" selection-start-column="14" selection-end-line="223" selection-end-column="14" />
           <folding>
             <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#header#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -587,12 +584,22 @@
             <element signature="n#p#2;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#p#3;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#11664#11670#0" expanded="true" />
-            <element signature="e#11670#11676#0" expanded="true" />
-            <element signature="e#11679#11685#0" expanded="true" />
-            <element signature="e#11685#11691#0" expanded="true" />
+            <element signature="e#12466#12472#0" expanded="true" />
+            <element signature="e#12472#12478#0" expanded="true" />
+            <element signature="e#12481#12487#0" expanded="true" />
+            <element signature="e#12487#12493#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="92" column="14" lean-forward="false" selection-start-line="92" selection-start-column="14" selection-end-line="92" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

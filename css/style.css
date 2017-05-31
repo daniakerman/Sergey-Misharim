@@ -90,7 +90,7 @@ body {
 }
 
 .social li a {
-    opacity: 0.4;
+    opacity: 1;
     filter: alpha(opacity=40);
     transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
@@ -239,7 +239,7 @@ footer {
     color: #878799;
 }
 
-.phone1, .skype1 {
+.phone1 {
     background: url(../images/phone1.png) left center no-repeat;
     font-family: 'Roboto';
     font-weight: 700;
@@ -252,9 +252,6 @@ footer {
 }
 
 .skype1 {
-    background: url(../images/skype.png) left center no-repeat;
-}
-
-.phone1_wrapper, .skype_wrapper  {
-    float: right;
+    position: relative;
+    left: -26px;
 }
