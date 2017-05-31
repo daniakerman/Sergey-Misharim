@@ -1,7 +1,7 @@
 body {
     background: url("../images/bg1.jpg") center top no-repeat #0c0c0d;
     border: 0;
-    font: 14px 'Roboto', Arial, Helvetica, sans-serif;
+    font: 15px 'Roboto', Arial, Helvetica, sans-serif;
     font-weight: 300;
     color: #d1d0ed;
     line-height: 23px;
@@ -169,6 +169,9 @@ img.img-responsive:hover {
 .image-gallery-wrapper {
     margin-top: 60px;
 }
+.image-gallery-wrapper > .row {
+    margin-left: -12px;
+}
 
 #content > .container > .row {
     background: url(../images/px1.png);
@@ -183,7 +186,8 @@ footer {
 
 .bot1_wrapper {
     background: #20202d;
-    padding: 35px 0;
+    padding-top: 35px;
+    height: 180px;
 }
 
 .bot2_wrapper {
@@ -237,7 +241,7 @@ footer {
     color: #878799;
 }
 
-.phone1 {
+.phone1, .phone2 {
     background: url(../images/phone1.png) left center no-repeat;
     font-family: 'Roboto';
     font-weight: 700;
@@ -247,6 +251,9 @@ footer {
     letter-spacing: -1px;
     padding-left: 50px;
     display: inline-block;
+}
+.phone2 {
+    background-image: none;
 }
 
 .skype1 {
