@@ -148,7 +148,7 @@ figure.img-polaroid img {
 #content {
     margin-top: 0;
     margin-bottom: 50px;
-    text-shadow: 3px 3px 1px black;
+    text-shadow: 1px 1px 1px black;
 }
 
 img.img-responsive {
