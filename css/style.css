@@ -239,7 +239,7 @@ footer {
     color: #878799;
 }
 
-.phone1 {
+.phone1, .skype1 {
     background: url(../images/phone1.png) left center no-repeat;
     font-family: 'Roboto';
     font-weight: 700;
@@ -251,6 +251,10 @@ footer {
     display: inline-block;
 }
 
-.pnone1_wrapper {
+.skype1 {
+    background: url(../images/skype.png) left center no-repeat;
+}
+
+.phone1_wrapper, .skype_wrapper  {
     float: right;
 }
