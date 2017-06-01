@@ -203,6 +203,7 @@ footer {
     text-align: center;
     white-space: nowrap;
     padding-top: 0;
+
 }
 
 #menu_bot > li > a {
@@ -263,4 +264,8 @@ footer {
 
 .gap-right {
     margin-right: 15px;
+}
+
+.bottom_wrapper {
+    margin-left: 8px;
 }
