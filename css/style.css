@@ -203,6 +203,7 @@ footer {
     text-align: center;
     white-space: nowrap;
     padding-top: 0;
+
 }
 
 #menu_bot > li > a {
@@ -241,7 +242,7 @@ footer {
     color: #878799;
 }
 
-.phone1, .phone2 {
+.phone1, .phone2, .email {
     background: url(../images/phone1.png) left center no-repeat;
     font-family: 'Roboto';
     font-weight: 700;
@@ -252,15 +253,70 @@ footer {
     padding-left: 50px;
     display: inline-block;
 }
-.phone2 {
+.email, .phone2 {
     background-image: none;
 }
 
 .skype1 {
     position: relative;
-    left: -26px;
+    top: -30px;
 }
 
 .gap-right {
     margin-right: 15px;
+}
+
+.bottom_wrapper {
+    margin-left: 8px;
+}
+
+.email a {
+    color: #00aff0;
+    display: block;
+    text-decoration: none;
+    background: none;
+    font-family: 'PT Sans Narrow';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-shadow: none;
+    padding: 0px 0px;
+    border: none;
+    margin: 0;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    text-transform: uppercase;
+    transition: color 0.3s ease-out;
+    -moz-transition: color 0.3s ease-out;
+    -webkit-transition: color 0.3s ease-out;
+    -o-transition: color 0.3s ease-out;
+    letter-spacing: 0.5px;
+}
+
+.email a:hover, #menu_bot > li > a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: none;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    border-color: #fff;
+}
+
+.date1 {
+    background: url(../images/date1.png) 8px center no-repeat;
+    padding-left: 30px;
+    padding-right: 15px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #706f89;
+    text-transform: uppercase;
+    line-height: 28px;
+    border: 1px solid #323145;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
