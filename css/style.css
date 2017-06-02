@@ -242,7 +242,7 @@ footer {
     color: #878799;
 }
 
-.phone1, .phone2 {
+.phone1, .phone2, .email {
     background: url(../images/phone1.png) left center no-repeat;
     font-family: 'Roboto';
     font-weight: 700;
@@ -253,7 +253,7 @@ footer {
     padding-left: 50px;
     display: inline-block;
 }
-.phone2 {
+.email, .phone2 {
     background-image: none;
 }
 
