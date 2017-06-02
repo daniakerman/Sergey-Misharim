@@ -303,3 +303,20 @@ footer {
     -webkit-box-shadow: none;
     border-color: #fff;
 }
+
+.date1 {
+    background: url(../images/date1.png) 8px center no-repeat;
+    padding-left: 30px;
+    padding-right: 15px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #706f89;
+    text-transform: uppercase;
+    line-height: 28px;
+    border: 1px solid #323145;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 10px;
+}

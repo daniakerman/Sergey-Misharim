@@ -5,7 +5,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/date1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -374,7 +373,7 @@
       <workItem from="1496058706486" duration="5960000" />
       <workItem from="1496079092885" duration="11886000" />
       <workItem from="1496234072953" duration="4033000" />
-      <workItem from="1496255316512" duration="13284000" />
+      <workItem from="1496255316512" duration="13412000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html.">
       <created>1496058234923</created>
@@ -516,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496402503471</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="added space weather content">
+      <created>1496406075099</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1496406075099</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35612000" />
+    <option name="totallyTimeSpent" value="35740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="47" width="1383" height="873" extended-state="0" />
@@ -615,7 +621,8 @@
     <MESSAGE value="fixed footer" />
     <MESSAGE value="added email" />
     <MESSAGE value="added hover style on links and email" />
-    <option name="LAST_COMMIT_MESSAGE" value="added hover style on links and email" />
+    <MESSAGE value="added space weather content" />
+    <option name="LAST_COMMIT_MESSAGE" value="added space weather content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
