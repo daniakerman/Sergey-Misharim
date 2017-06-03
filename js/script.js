@@ -6,13 +6,14 @@ $(document).ready(function ($) {
         return $(this).ekkoLightbox();
     });
 
-    var scrollToElement = function (selector) {
+    var scrollToElement = function (htmlClass) {
         $('html, body').animate({
-            scrollTop: $('.' + selector).offset().top
+            scrollTop: $('.' + htmlClass).offset().top
         }, 1000);
     };
     $(".menu_wrapper ul > li a, .bot1_wrapper ul > li a").on("click", function() {
-        scrollToElement($(this).data('element'));
+        var htmlClass = $(this).data('element');
+        scrollToElement(htmlClass);
     });
 
 });
