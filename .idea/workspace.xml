@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="819621da-a73b-4ed2-8b6f-1cfb5c3d3625" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -104,8 +104,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="567">
+              <caret line="491" column="25" lean-forward="true" selection-start-line="491" selection-start-column="25" selection-end-line="491" selection-end-column="25" />
               <folding>
                 <element signature="e#250#845#0" expanded="false" />
                 <element signature="e#855#3457#0" expanded="false" />
@@ -160,13 +160,11 @@
                 <element signature="e#7900#8954#0" expanded="false" />
                 <element signature="e#8169#8952#0" expanded="false" />
                 <element signature="e#8758#8948#0" expanded="false" />
-                <element signature="e#8963#9002#0" expanded="false" />
                 <element signature="e#9014#9039#0" expanded="false" />
                 <element signature="e#9056#9079#0" expanded="false" />
                 <element signature="e#9087#9459#0" expanded="false" />
                 <element signature="e#9513#9601#0" expanded="false" />
                 <element signature="e#9531#9599#0" expanded="false" />
-                <element signature="e#9628#10578#0" expanded="false" />
                 <element signature="e#9656#9950#0" expanded="false" />
                 <element signature="e#9666#9904#0" expanded="false" />
                 <element signature="e#9678#9898#0" expanded="false" />
@@ -182,8 +180,7 @@
                 <element signature="e#10211#10298#0" expanded="false" />
                 <element signature="e#10309#10396#0" expanded="false" />
                 <element signature="e#10406#10493#0" expanded="false" />
-                <element signature="e#10504#10535#0" expanded="false" />
-                <element signature="e#10553#10576#0" expanded="false" />
+                <element signature="e#10511#10534#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -219,6 +216,7 @@
       <find>.navbar_ .nav &gt; li</find>
       <find>980</find>
       <find>max</find>
+      <find>skype1</find>
     </findStrings>
     <replaceStrings>
       <replace>class=&quot;img-responsive&quot; src=&quot;http://placehold.it/300x200&quot;</replace>
@@ -446,7 +444,7 @@
       <workItem from="1496513579754" duration="786000" />
       <workItem from="1496576170694" duration="19065000" />
       <workItem from="1496834871674" duration="521000" />
-      <workItem from="1496837286542" duration="299000" />
+      <workItem from="1496837286542" duration="1158000" />
     </task>
     <task id="LOCAL-00001" summary="Added index.html.">
       <created>1496058234923</created>
@@ -637,11 +635,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496770553356</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="converted css to scss">
+      <created>1496837609220</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1496837609220</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57337000" />
+    <option name="totallyTimeSpent" value="58196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="23" width="1325" height="873" extended-state="0" />
@@ -717,7 +722,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added index.html." />
     <MESSAGE value="Added bg." />
     <MESSAGE value="Added image gallery and missing libraries" />
     <MESSAGE value="Translated menu to russian." />
@@ -742,7 +746,8 @@
     <MESSAGE value="fixed responsive menu for smaller screen" />
     <MESSAGE value="fixed header and footer on smaller devices" />
     <MESSAGE value="added space weather content" />
-    <option name="LAST_COMMIT_MESSAGE" value="added space weather content" />
+    <MESSAGE value="converted css to scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="converted css to scss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -897,13 +902,11 @@
             <element signature="e#7900#8954#0" expanded="false" />
             <element signature="e#8169#8952#0" expanded="false" />
             <element signature="e#8758#8948#0" expanded="false" />
-            <element signature="e#8963#9002#0" expanded="false" />
             <element signature="e#9014#9039#0" expanded="false" />
             <element signature="e#9056#9079#0" expanded="false" />
             <element signature="e#9087#9459#0" expanded="false" />
             <element signature="e#9513#9601#0" expanded="false" />
             <element signature="e#9531#9599#0" expanded="false" />
-            <element signature="e#9628#10578#0" expanded="false" />
             <element signature="e#9656#9950#0" expanded="false" />
             <element signature="e#9666#9904#0" expanded="false" />
             <element signature="e#9678#9898#0" expanded="false" />
@@ -919,8 +922,7 @@
             <element signature="e#10211#10298#0" expanded="false" />
             <element signature="e#10309#10396#0" expanded="false" />
             <element signature="e#10406#10493#0" expanded="false" />
-            <element signature="e#10504#10535#0" expanded="false" />
-            <element signature="e#10553#10576#0" expanded="false" />
+            <element signature="e#10511#10534#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1579,8 +1581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="567">
+          <caret line="491" column="25" lean-forward="true" selection-start-line="491" selection-start-column="25" selection-end-line="491" selection-end-column="25" />
           <folding>
             <element signature="e#250#845#0" expanded="false" />
             <element signature="e#855#3457#0" expanded="false" />
@@ -1635,13 +1637,11 @@
             <element signature="e#7900#8954#0" expanded="false" />
             <element signature="e#8169#8952#0" expanded="false" />
             <element signature="e#8758#8948#0" expanded="false" />
-            <element signature="e#8963#9002#0" expanded="false" />
             <element signature="e#9014#9039#0" expanded="false" />
             <element signature="e#9056#9079#0" expanded="false" />
             <element signature="e#9087#9459#0" expanded="false" />
             <element signature="e#9513#9601#0" expanded="false" />
             <element signature="e#9531#9599#0" expanded="false" />
-            <element signature="e#9628#10578#0" expanded="false" />
             <element signature="e#9656#9950#0" expanded="false" />
             <element signature="e#9666#9904#0" expanded="false" />
             <element signature="e#9678#9898#0" expanded="false" />
@@ -1657,8 +1657,7 @@
             <element signature="e#10211#10298#0" expanded="false" />
             <element signature="e#10309#10396#0" expanded="false" />
             <element signature="e#10406#10493#0" expanded="false" />
-            <element signature="e#10504#10535#0" expanded="false" />
-            <element signature="e#10553#10576#0" expanded="false" />
+            <element signature="e#10511#10534#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -424,10 +424,10 @@ footer {
     letter-spacing: -1px;
     padding-left: 50px; }
 
-  .skype1 {
-    margin-bottom: -60px; }
-
   .menu_wrapper2 {
     width: 393px; } }
+@media (max-width: 1200px) {
+  .skype1 {
+    margin-bottom: -60px; } }
 
 /*# sourceMappingURL=style.css.map */
