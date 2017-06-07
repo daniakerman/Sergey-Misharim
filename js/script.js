@@ -16,4 +16,21 @@ $(document).ready(function ($) {
         scrollToElement(htmlClass);
     });
 
+    // Load posts from tumblr
+    function loadPosts () {
+
+        var key = "api_key=xBcVPLfdDKpH0GjMCd1whW7rPoYkzLgZD3ZwpzndISFI4huSpA";
+        var api = "https://api.tumblr.com/v2/blog/only-text-posts.tumblr.com/";
+
+        $.getJSON(api + "posts/text?callback=?&filter=text&limit=3&offset=0&" + key,function(data) {
+            $.each(data.response.posts, function(i, item) {
+                var content = item.body;
+                $(".space_weather > div:first-child").append('<li>' + content + '</li>')
+            });
+
+        });
+    }
+
+    loadPosts();
+
 });
