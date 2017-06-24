@@ -25,7 +25,8 @@ $(document).ready(function ($) {
         $.getJSON(api + "posts/text?callback=?&filter=text&limit=3&offset=0&" + key,function(data) {
             $.each(data.response.posts, function(i, item) {
                 var content = item.body;
-                $(".space_weather > div:first-child").append('<li>' + content + '</li>')
+                var divWithContent = '<div class="col-sm-6">' + content + '</div>';
+                $(".space_weather").append(divWithContent);
             });
 
         });
